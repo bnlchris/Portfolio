@@ -1,0 +1,14 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* main */
+
+.portrait {
+	width: 50%;
+}
+
+.linkedin, .github {
+	transition: 1s;
+	left: 0;
+}
