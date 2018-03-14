@@ -1,0 +1,14 @@
+@media screen and (max-width: 400px) {
+	.project {
+		width: 200px;
+		height: 200px;
+	}
+}
+
+@media screen and (min-width: 1000px) {
+	body {
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
